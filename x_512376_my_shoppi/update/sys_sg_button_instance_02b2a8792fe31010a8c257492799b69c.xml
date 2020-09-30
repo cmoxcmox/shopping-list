@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Store)">02b2a8792fe31010a8c257492799b698</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Store)</name>
+        <order/>
+        <parent>79b2a8792fe31010a8c257492799b687</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-29 19:50:26</sys_created_on>
+        <sys_id>02b2a8792fe31010a8c257492799b69c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Store)</sys_name>
+        <sys_package display_value="My Shopping List" source="x_512376_my_shoppi">5f41e4392fe31010a8c257492799b655</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Shopping List">5f41e4392fe31010a8c257492799b655</sys_scope>
+        <sys_update_name>sys_sg_button_instance_02b2a8792fe31010a8c257492799b69c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-29 19:50:26</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=02b2a8792fe31010a8c257492799b69c"/>
+</record_update>
